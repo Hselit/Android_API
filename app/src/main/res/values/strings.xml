@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyAPI</string>
+    <string name="heading">Fill the Details</string>
+    <string name="name_hint">Enter Your Name</string>
+    <string name="role_hint">Enter Your Role</string>
+    <string name="getbtn">Load Data</string>
+    <string name="postbtn">Add Details</string>
+    <string name="nextpage">Add Data</string>
+</resources>
